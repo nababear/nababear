@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nabanita Roy !!</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababear&label=Profile%20views&color=0e75b6&style=flat" alt="nababear" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nababear" alt="nababear" /></a> </p>
